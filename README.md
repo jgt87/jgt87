@@ -1,7 +1,5 @@
 ### Hey, I'm JG
 
-I build tools for agents, reverse engineering, and trading research, mostly local-first and self-hosted.
-
 #### Building
 
 - **[Quant Terminal](https://github.com/jgt87/quant-terminal)** [![GitHub stars](https://img.shields.io/github/stars/jgt87/quant-terminal?style=flat&color=lightgrey)](https://github.com/jgt87/quant-terminal) - Self-hosted charting and quant research terminal: market data, canvas charts, indicators, drawing tools and backtesting.
