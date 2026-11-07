@@ -1,5 +1,11 @@
 ### Hey, I'm JG
 
+#### Launched
+
+- **[CandleDraw](https://candledraw.com)** - Hand-draw candlestick charts on an infinite canvas: drag OHLC points, annotate from trend lines to harmonic patterns, or turn a freehand zig-zag into candles.
+- **[GlowShot](https://glowshotapp.vercel.app)** - Four design tools in one app: screenshot beautifier, seamless pattern generator, video-to-animation editor (GIF, WebP, WebM, MP4) and gradient wallpaper maker.
+- **[Workflow Architect](https://workflowarchitect.vercel.app)** - Visual workflow builder: rich-text tiles on an infinite canvas, organised into projects, with private and public publishing.
+
 #### Building
 
 - **[Quant Terminal](https://github.com/jgt87/quant-terminal)** [![GitHub stars](https://img.shields.io/github/stars/jgt87/quant-terminal?style=flat&color=lightgrey)](https://github.com/jgt87/quant-terminal) - Self-hosted charting and quant research terminal: market data, canvas charts, indicators, drawing tools and backtesting.
