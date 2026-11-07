@@ -5,6 +5,7 @@
 - **[CandleDraw](https://candledraw.com)** - Hand-draw candlestick charts on an infinite canvas: drag OHLC points, annotate from trend lines to harmonic patterns, or turn a freehand zig-zag into candles.
 - **[GlowShot](https://glowshotapp.vercel.app)** - Four design tools in one app: screenshot beautifier, seamless pattern generator, video-to-animation editor (GIF, WebP, WebM, MP4) and gradient wallpaper maker.
 - **[Workflow Architect](https://workflowarchitect.vercel.app)** - Visual workflow builder: rich-text tiles on an infinite canvas, organised into projects, with private and public publishing.
+- **[M365 Engineer](https://m365engineer.vercel.app/)** - Microsoft 365 Roadmap and Message Center in one filterable, searchable feed for M365 engineers and IT admins.
 
 #### Building
 
